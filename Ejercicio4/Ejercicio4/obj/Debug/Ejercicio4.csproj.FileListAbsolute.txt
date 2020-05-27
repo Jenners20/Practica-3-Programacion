@@ -1,0 +1,7 @@
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
