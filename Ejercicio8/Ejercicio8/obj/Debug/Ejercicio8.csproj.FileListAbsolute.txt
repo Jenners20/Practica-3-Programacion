@@ -1,0 +1,6 @@
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Primer mes\Practica 3\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
